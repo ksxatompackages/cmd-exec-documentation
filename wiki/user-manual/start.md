@@ -49,6 +49,9 @@ Create property `cmd-exec` to store an object, and property `commands` of this o
 
 Open Command Palette, type command from that "Key" (see above: Property `data`)
 
+## See also
+ * [Tips and Tricks](./tips-and-tricks.md)
+
 # FAQ
 
 ## I want to copy selected text in console
