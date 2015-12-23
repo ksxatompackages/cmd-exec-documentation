@@ -31,6 +31,7 @@ Create property `cmd-exec` to store an object, and property `commands` of this o
   - Property `hideInputText` (optional): If `true`, console would not display text which was entered by the user, makes sense only if `console` is `true`. this property is `false` by default.
   - Property `utils` (optional): An array which contains names of some special utilities which would be executed instead of being written to stdin when console is opening, e.g. `"clear"`, `"exit"`, `"start"`, `"beep"` and [more](https://github.com/ksxatompackages/cmd-exec/blob/master/lib/special-commands.js#L98).
   - Property `paneItemPosition` (optional): If it was a string, it would override `config.command-executer.pane-item-position`, determine where console should be located, makes sense only if `console` is `true`.
+  - Property `classes` (optional): An array contains CSS classes which would be added to console view.
 
 ## Executing command
 
