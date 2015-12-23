@@ -28,7 +28,7 @@ Steps:
 
 ### Type 2: Press <kbd>ESC</kbd> to clear input box or close console
 
-*Description: When you press <kbd>ESC</kbd>, Atom would clear the input if it's empty, or close the pane item which contains the console*
+*Description: When you press <kbd>ESC</kbd>, Atom would close the pane item which contains the console if the input box is empty, or clear the input otherwise*
 
 Steps:
 
