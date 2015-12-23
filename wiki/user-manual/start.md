@@ -35,3 +35,8 @@ Create property `cmd-exec` to store an object, and property `commands` of this o
 ## Executing command
 
 Open Command Palette, type command from that "Key" (see above: Property `data`)
+
+# FAQ
+
+## I want to copy selected text in console
+This package is for you: https://atom.io/package/enable-clipboard-helper
