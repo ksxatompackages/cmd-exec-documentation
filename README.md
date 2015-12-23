@@ -13,4 +13,4 @@ command-executer is an atom package, users install this by downloading everythin
 
 ## About command-executer
  * Git repo: [<img src="./images/github-mark-64px.png" style="width: 1.2em; height: 1.2em;">/ksxatompackages/cmd-exec](https://github.com/ksxatompackages/cmd-exec.git)
- * Atom.io: [<img src="./images/atom-icon-64px.png" style="width: 1.2em; height: 1.2em;">/packages/command-executer](https://atom.io/packages/command-executer)
+ * Atom.io: [<img src="./images/atom.io.icon.png" style="width: 1.3em; height: 1.2em;">/packages/command-executer](https://atom.io/packages/command-executer)
