@@ -29,6 +29,7 @@
             type: "spawn"
             path: "cmd"
             console: true
+            attached: true # Attach cmd process to atom, output text would be displayed in cmd-exec console instead of temporary window console
             hideInputText: true
             utils: [
               "clear" # Enter 'clear' in console, your console would be cleared
@@ -44,6 +45,7 @@
             type: "spawn"
             path: "bash"
             console: true
+            # attached: true # Yes, not necessary, and I like it!
             utils: [
               "clear"
               "alert"
