@@ -35,7 +35,7 @@ Create property `cmd-exec` to store an object, and property `commands` of this o
 
   - Property `console` (optional): If `true`, a console would be opened, makes sense only of `type` is `"spawn"` or `"fork"`, this property is `false` by default.
   
-  - Property `attached` (optional): If `true`, the spawned child process would be attach to atom process. Learn more: [child_process](https://nodejs.org/api/child_process.html#child_process_child_process_spawn_command_args_options); [options.detached](https://nodejs.org/api/child_process.html#child_process_options_detached)
+  - Property `attached` (optional): If `true`, the spawned child process would be attach to atom process. Learn more: [child_process.spawn](https://nodejs.org/api/child_process.html#child_process_child_process_spawn_command_args_options); [options.detached](https://nodejs.org/api/child_process.html#child_process_options_detached)
 
   - Property `closeOnExit` (optional): If `true`, console would be closed right after stdio stream is close (i.e. all processes which uses that stream finished), makes sense only if `console` is `true`, this property is `false` by default.
 
